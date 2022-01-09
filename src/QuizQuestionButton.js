@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class QuizQuestionButton extends Component {
   render() {
@@ -10,4 +10,4 @@ class QuizQuestionButton extends Component {
   }
 }
 
-export default QuizQuestionButton
+export default QuizQuestionButton;
